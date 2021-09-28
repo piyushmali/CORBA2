@@ -10,6 +10,11 @@ import org.omg.CosNaming.NamingContextPackage.*;
 import org.omg.CORBA.*;
 import static java.lang.System.out;
 
+/**
+ *
+ * @author Piyush Mali
+ */
+
 public class CalcClient {
 
     static Calc calcImpl;
